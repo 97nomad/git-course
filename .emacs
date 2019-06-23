@@ -50,10 +50,6 @@
 ;; Отключение главного экрана
 (setq inhibit-startup-message nil)
 
-;; Автодополнение
-(require 'company)
-(global-company-mode t)
-
 ;; Не показывать предупреждение при нажатии A в dired
 (put 'dired-find-alternate-file 'disabled nil)
 
