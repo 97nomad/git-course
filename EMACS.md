@@ -1,5 +1,12 @@
 # Emacs
 
+## Настройка
+
+  * (По необходимости) определить environment переменную `HOME`
+  * Скопировать файл `.emacs` в домашнюю директорию
+  * `package-refresh-contents`
+  * `package-install-selected-packages`
+
 ## Управление буферами
 
   * `C-x 1` - развернуть буфер на весь экран
