@@ -12,3 +12,5 @@
   * Git Book <https://git-scm.com/book/ru/v2>
   * Git Reference Manual <https://git-scm.com/docs>
   * Magit User Manual <https://magit.vc/manual/magit/>
+  
+  * Stable Mainline <https://www.bitsnbites.eu/a-stable-mainline-branching-model-for-git>
